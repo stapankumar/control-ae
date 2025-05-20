@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/CMakeFiles/bootloader
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/CMakeFiles/bootloader.rule
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/CMakeFiles/bootloader-complete.rule
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/cdot/Downloads/personal work/learnings/projects/railsentinel/control_ae/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
